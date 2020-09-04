@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="333d19a1-71b6-42c3-910d-4d3c45e45a75" name="localhost" />
@@ -33,6 +36,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1fujdNsquuysow5aJwXBOiygDRL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,6 +84,7 @@
       <workItem from="1599124028116" duration="1727000" />
       <workItem from="1599139223601" duration="1306000" />
       <workItem from="1599212522656" duration="3767000" />
+      <workItem from="1599229074860" duration="2371000" />
     </task>
     <servers />
   </component>
