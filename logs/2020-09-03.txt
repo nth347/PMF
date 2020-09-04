@@ -1,0 +1,142 @@
+[03-Sep-2020 02:15:31 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: No route matched
+Stack trace:
+#0 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#1 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 145
+
+
+[03-Sep-2020 02:15:43 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: No route matched
+Stack trace:
+#0 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#1 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 145
+
+
+[03-Sep-2020 02:15:53 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Method abcAction not found in controller App\Controllers\Home
+Stack trace:
+#0 /var/www/html/Core/Router.php(132): Core\Controller->__call()
+#1 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#2 {main}
+Thrown in: '/var/www/html/Core/Controller.php' on line 52
+
+
+[03-Sep-2020 02:15:58 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: No route matched
+Stack trace:
+#0 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#1 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 145
+
+
+[03-Sep-2020 02:18:08 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Method indexxAction not found in controller App\Controllers\Home
+Stack trace:
+#0 /var/www/html/Core/Router.php(132): Core\Controller->__call()
+#1 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#2 {main}
+Thrown in: '/var/www/html/Core/Controller.php' on line 52
+
+
+[03-Sep-2020 02:20:49 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Method indexxAction not found in controller App\Controllers\Home
+Stack trace:
+#0 /var/www/html/Core/Router.php(132): Core\Controller->__call()
+#1 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#2 {main}
+Thrown in: '/var/www/html/Core/Controller.php' on line 52
+
+
+[03-Sep-2020 02:20:50 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Method indexxAction not found in controller App\Controllers\Home
+Stack trace:
+#0 /var/www/html/Core/Router.php(132): Core\Controller->__call()
+#1 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#2 {main}
+Thrown in: '/var/www/html/Core/Controller.php' on line 52
+
+
+[03-Sep-2020 06:22:39 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: ErrorException
+Message: Undefined variable: controler
+Stack trace:
+#0 /var/www/html/Core/Router.php(140): Core\Error::errorHandler()
+#1 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#2 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 140
+
+
+[03-Sep-2020 06:23:58 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Controller class App\Controllers\Controller not found
+Stack trace:
+#0 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#1 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 140
+
+
+[03-Sep-2020 06:31:44 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Controller class App\Controllers\Controller not found
+Stack trace:
+#0 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#1 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 140
+
+
+[03-Sep-2020 06:31:44 America/Los_Angeles] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant html - assumed 'html' (this will throw an Error in a future version of PHP) in /var/www/html/Core/Error.php:63
+Stack trace:
+#0 /var/www/html/Core/Error.php(63): Core\Error::errorHandler()
+#1 [internal function]: Core\Error::exceptionHandler()
+#2 {main}
+  thrown in /var/www/html/Core/Error.php on line 63
+[03-Sep-2020 06:32:06 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Controller class App\Controllers\Controller not found
+Stack trace:
+#0 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#1 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 140
+
+
+[03-Sep-2020 06:32:19 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: No route matched
+Stack trace:
+#0 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#1 {main}
+Thrown in: '/var/www/html/Core/Router.php' on line 145
+
+
+[03-Sep-2020 06:32:28 America/Los_Angeles] 
+Fatal error.
+Uncaught exception: Exception
+Message: Method abaAction not found in controller App\Controllers\Home
+Stack trace:
+#0 /var/www/html/Core/Router.php(132): Core\Controller->__call()
+#1 /var/www/html/public/index.php(57): Core\Router->dispatch()
+#2 {main}
+Thrown in: '/var/www/html/Core/Controller.php' on line 52
+
+

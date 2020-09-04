@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0961648-787a-4ae0-be44-25c70a16526f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="333d19a1-71b6-42c3-910d-4d3c45e45a75" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1fujdNsquuysow5aJwXBOiygDRL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0961648-787a-4ae0-be44-25c70a16526f" name="Default Changelist" comment="" />
+      <created>1597074961975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597074961975</updated>
+      <workItem from="1597074965270" duration="3571000" />
+      <workItem from="1597130495068" duration="4773000" />
+      <workItem from="1597158155938" duration="3334000" />
+      <workItem from="1597313236979" duration="1758000" />
+      <workItem from="1597330159714" duration="600000" />
+      <workItem from="1597399302588" duration="2174000" />
+      <workItem from="1597496479998" duration="3663000" />
+      <workItem from="1597667817879" duration="4010000" />
+      <workItem from="1597695803518" duration="1884000" />
+      <workItem from="1597698452712" duration="118000" />
+      <workItem from="1597698753657" duration="5129000" />
+      <workItem from="1597745672765" duration="11653000" />
+      <workItem from="1597848236212" duration="7816000" />
+      <workItem from="1597916403238" duration="1198000" />
+      <workItem from="1597927485120" duration="7789000" />
+      <workItem from="1598003916175" duration="3393000" />
+      <workItem from="1598015173395" duration="4089000" />
+      <workItem from="1598035656357" duration="2215000" />
+      <workItem from="1598074316417" duration="2326000" />
+      <workItem from="1598971040076" duration="9463000" />
+      <workItem from="1599040966144" duration="5487000" />
+      <workItem from="1599057555677" duration="1375000" />
+      <workItem from="1599104258301" duration="5857000" />
+      <workItem from="1599124028116" duration="1727000" />
+      <workItem from="1599139223601" duration="1306000" />
+      <workItem from="1599212522656" duration="3767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="378" width="582" height="357" key="#Notifications" timestamp="1597748975498">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="700" y="378" width="582" height="357" key="#Notifications/72.27.1848.1053@72.27.1848.1053" timestamp="1597748975498" />
+    <state x="710" y="355" width="562" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597158202280">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="710" y="355" width="562" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1597158202280" />
+    <state x="327" y="68" width="325" height="499" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599041937456">
+      <screen x="72" y="27" width="728" height="573" />
+    </state>
+    <state x="719" y="103" width="534" height="916" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1598005292065" />
+    <state x="327" y="68" width="325" height="499" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.728.573@72.27.728.573" timestamp="1599041937456" />
+    <state x="883" y="289" width="216" height="535" key="#xdebugger.XInspectDialog" timestamp="1597701663874">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="883" y="289" width="216" height="535" key="#xdebugger.XInspectDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1597701663874" />
+    <state x="975" y="226" key="#xdebugger.evaluate" timestamp="1598075034472">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="975" y="226" key="#xdebugger.evaluate/72.27.1848.1053@72.27.1848.1053" timestamp="1598075034472" />
+    <state width="1802" height="279" key="GridCell.Tab.0.bottom" timestamp="1599112694366">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694366" />
+    <state width="1802" height="2" key="GridCell.Tab.0.bottom/72.27.728.573@72.27.728.573" timestamp="1598008209060" />
+    <state width="1802" height="279" key="GridCell.Tab.0.center" timestamp="1599112694365">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694365" />
+    <state width="1802" height="2" key="GridCell.Tab.0.center/72.27.728.573@72.27.728.573" timestamp="1598008209058" />
+    <state width="1802" height="279" key="GridCell.Tab.0.left" timestamp="1599112694365">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694365" />
+    <state width="1802" height="2" key="GridCell.Tab.0.left/72.27.728.573@72.27.728.573" timestamp="1598008209058" />
+    <state width="1802" height="279" key="GridCell.Tab.0.right" timestamp="1599112694366">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694366" />
+    <state width="1802" height="2" key="GridCell.Tab.0.right/72.27.728.573@72.27.728.573" timestamp="1598008209059" />
+    <state width="1802" height="279" key="GridCell.Tab.1.bottom" timestamp="1599112694377">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694377" />
+    <state width="1802" height="2" key="GridCell.Tab.1.bottom/72.27.728.573@72.27.728.573" timestamp="1598008209062" />
+    <state width="1802" height="279" key="GridCell.Tab.1.center" timestamp="1599112694371">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694371" />
+    <state width="1802" height="2" key="GridCell.Tab.1.center/72.27.728.573@72.27.728.573" timestamp="1598008209061" />
+    <state width="1802" height="279" key="GridCell.Tab.1.left" timestamp="1599112694367">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694367" />
+    <state width="1802" height="2" key="GridCell.Tab.1.left/72.27.728.573@72.27.728.573" timestamp="1598008209060" />
+    <state width="1802" height="279" key="GridCell.Tab.1.right" timestamp="1599112694377">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694377" />
+    <state width="1802" height="2" key="GridCell.Tab.1.right/72.27.728.573@72.27.728.573" timestamp="1598008209061" />
+    <state width="1802" height="279" key="GridCell.Tab.2.bottom" timestamp="1599112694389">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.2.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694389" />
+    <state width="1802" height="2" key="GridCell.Tab.2.bottom/72.27.728.573@72.27.728.573" timestamp="1598008209064" />
+    <state width="1802" height="279" key="GridCell.Tab.2.center" timestamp="1599112694385">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.2.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694385" />
+    <state width="1802" height="2" key="GridCell.Tab.2.center/72.27.728.573@72.27.728.573" timestamp="1598008209063" />
+    <state width="1802" height="279" key="GridCell.Tab.2.left" timestamp="1599112694384">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.2.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694384" />
+    <state width="1802" height="2" key="GridCell.Tab.2.left/72.27.728.573@72.27.728.573" timestamp="1598008209062" />
+    <state width="1802" height="279" key="GridCell.Tab.2.right" timestamp="1599112694387">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="279" key="GridCell.Tab.2.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599112694387" />
+    <state width="1802" height="2" key="GridCell.Tab.2.right/72.27.728.573@72.27.728.573" timestamp="1598008209063" />
+    <state x="782" y="273" width="386" height="512" key="NewPhpClassDialog" timestamp="1599108235919">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="782" y="273" width="465" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1599108235919" />
+    <state x="352" y="88" width="386" height="512" key="NewPhpClassDialog/72.27.728.573@72.27.728.573" timestamp="1599057586085" />
+    <state x="791" y="479" width="249" height="156" key="NewPhpFileDialog" timestamp="1599041414012">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1599041414012" />
+    <state x="355" y="273" width="249" height="156" key="NewPhpFileDialog/72.27.728.573@72.27.728.573" timestamp="1598018684610" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1599041380889">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1599041380889" />
+    <state x="522" y="265" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598075992596">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="522" y="265" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1848.1053@72.27.1848.1053" timestamp="1598075992596" />
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599124200925">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1599124200925" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/App/Controllers/Posts.php</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Core/Error.php</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
