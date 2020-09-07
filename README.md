@@ -8,4 +8,4 @@ pmf - A tiny PHP MVC Framework
 3. Configure your web server to have the **public** folder as the document root
 4. Configure your web server to have pretty URLs (remove the question mark before query string)
 5. Open **App/Config.php** file and enter your database configuration
-6. Configure the **logs** folder can be written by the web server user in order to see log file in there
+6. Configure the **logs** folder can be written by the web server user in order to see log messages in there
