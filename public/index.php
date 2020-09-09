@@ -26,9 +26,16 @@ set_exception_handler('Core\Error::exceptionHandler');
 
 $router = new Core\Router();
 
-// Add the routes
+/**
+ * Add the routes
+ * A home/index route
+ * A variable route with format controller/action, e.g. post/new
+ * A variable route with format controller/id/action, e.g. post/100/edit
+ * A variable route with format admin/controller/action, e.g. admin/user/add
+ */
 $router->add('', ['controller' => 'Home', 'action' => 'index']);
 $router->add('{controller}/{action}');
+$router->add('{controller}/{id:\d+}/{action}');
 $router->add('admin/{controller}/{action}', ['namespace' => 'Admin']);
 
 /*
@@ -40,8 +47,6 @@ echo '</pre>';
 
 // Match the requested route
 echo '<br>MATCH THE REQUESTED ROUTE<br>';
-$url = $_SERVER['QUERY_STRING'];
-
 if ($router->match($url)) {
     echo '<pre>';
     var_dump($router->getParams());
