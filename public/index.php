@@ -29,9 +29,9 @@ $router = new Core\Router();
 /**
  * Add the routes
  * A home/index route
- * A variable route with format controller/action, e.g. post/new
- * A variable route with format controller/id/action, e.g. post/100/edit
- * A variable route with format admin/controller/action, e.g. admin/user/add
+ * A variable route with format controller/action, e.g. posts/new
+ * A variable route with format controller/id/action, e.g. posts/100/edit
+ * A variable route with format admin/controller/action, e.g. admin/products/add
  */
 $router->add('', ['controller' => 'Home', 'action' => 'index']);
 $router->add('{controller}/{action}');
