@@ -33,14 +33,14 @@ class Router
      */
     public function add($route, array $params = [])
     {
-        // Convert the route to a regular expression: escape forward slashes
+        // Escape forward slashes: Replacing / with \/
         $route = preg_replace('/\//', '\\/', $route);
 
         // Convert variables e.g. {controller}
-        $route = preg_replace('/\{([a-z]+)\}/', '(?P<\1>[a-z-]+)', $route);
+        $route = preg_replace('/\{([a-z]+)\}/', '(?<\1>[a-z-]+)', $route);
 
         // Convert variables with custom regular expressions e.g. {id:\d+}
-        $route = preg_replace('/\{([a-z]+):([^\}]+)\}/', '(?P<\1>\2)', $route);
+        $route = preg_replace('/\{([a-z]+):([^\}]+)\}/', '(?<\1>\2)', $route);
 
         // Add start and end delimiters, and case insensitive flag
         $route = '/^' . $route . '$/i';
@@ -69,6 +69,7 @@ class Router
     public function match($url)
     {
         /*
+        // Match to each entry in the routing table using simple string comparsion
         foreach($this->routes as $route => $params) {
             if ($url == $route) {
                 $this->params = $params;
@@ -77,8 +78,8 @@ class Router
         }
         */
 
-        // Match to the fixed URL format /controller/action
-        //$reg_exp = "/^(?P<controller>[a-z-]+)\/(?P<action>[a-z-]+)$/";
+        // Match to the fixed URL format /controller/action using regex
+        //$reg_exp = "/^(?<controller>[a-z-]+)\/(?<action>[a-z-]+)$/";
 
         foreach ($this->routes as $route => $params) {
             if (preg_match($route, $url, $matches)) {
