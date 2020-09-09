@@ -4,24 +4,28 @@ namespace Core;
 
 /**
  * Router
+ * 
  * PHP version 7.4
  */
 class Router
 {
     /**
      * Associative array of routes (the routing table), route URL, [controller => value1, action => value2]
+     * 
      * @var array
      */
     protected $routes = [];
 
     /**
      * Parameters from the matched route [controller => value1, action => value2]
+     * 
      * @var array
      */
     protected $params = [];
 
     /**
      * Add a route to the routing table
+     * 
      * @param string $route The route URL
      * @param array $params Parameters (controller, action, etc)
      *
@@ -59,6 +63,7 @@ class Router
      * property if a route is found
      *
      * @param string $url The route URL
+     * 
      * @return boolean true if a match found, false otherwise
      */
     public function match($url)
@@ -106,6 +111,7 @@ class Router
     /**
      * Dispatch the route, creating the controller object and running the
      * action method
+     *
      * @param string $url The route URL
      *
      * @return void
