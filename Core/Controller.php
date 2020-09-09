@@ -4,12 +4,14 @@ namespace Core;
 
 /**
  * Base controller class
+ * 
  * PHP version 7.4
  */
 abstract class Controller
 {
     /**
      * Parameters from the matched route
+     * 
      * @var array
      */
     protected $route_params = [];
