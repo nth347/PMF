@@ -1,5 +1,5 @@
-# pmf
-pmf - A tiny PHP MVC Framework
+# PMF - PHP MVC Framework
+PMF - A tiny PHP MVC Framework
 ## Starting an application using this framework
 1. Download the framework directly or by cloning the repo:
 `git clone 'https://github.com/nth347/php-mvc.git'`
